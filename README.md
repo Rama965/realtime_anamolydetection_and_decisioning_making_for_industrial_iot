@@ -1,0 +1,1 @@
+# End to End Real time Anamoly Detection and Decision Making platform for Industrial IOT
